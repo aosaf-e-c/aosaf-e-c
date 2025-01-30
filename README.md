@@ -1,6 +1,31 @@
-<h1>Hi! I am Aosaf!</h1>
+<div align='center'>
+  <h1>Hi! I am Aosaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  
+  <h3>Prev SWE Intern @ Unframed Limited | CS @ HKU | Data Enthusiast</h3>
 
-I am a software engineer studying at <img src="https://www.hku.hk/f/page/7561/150p169/1d@750.jpg" width="13"/> <b>The University of Hong Kong</b></p>
+  <p>
+    <a href="https://github.com/aosaf-e-c" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/aosaf-ershad-chowdhury/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  </p>
+
+</div>
+
+<br>
+<ul>
+  <li>🚀 I am a passionate software engineer and a Year 2 Computer Science student at 
+    <img src="https://www.hku.hk/f/page/7561/150p169/1d@750.jpg" width="13"/> 
+    <b>The University of Hong Kong</b>
+  </li>
+  <li>🌱 I love building cool projects, learning cutting-edge technologies, and solving
+    real-world problems with code.
+  </li>
+  <li>🔍 I am always looking for exciting opportunities to collaborate and expand my knowledge. 
+  </li>
+  <li>💡 Feel free to connect with me—let’s build something awesome together!
+  </li>
+</ul>
+
+
 <h3>Languages I code with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -32,9 +57,7 @@ I am a software engineer studying at <img src="https://www.hku.hk/f/page/7561/15
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 </p>
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/aosaf-e-c" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/aosaf-ershad-chowdhury/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
+<p>Thank you very much for visiting my profile! </p>
 
 <!---
 aosaf-e-c/aosaf-e-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
